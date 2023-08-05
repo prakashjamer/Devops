@@ -2,4 +2,4 @@ dotnet new sln --name devops.fundamental
 dotnet new webapi --name devops.fundamental.Api
 dotnet sln add .\src\devops.fundamental.Api\devops.fundamental.Api.csproj
 dotnet build
-
+dotnet run
