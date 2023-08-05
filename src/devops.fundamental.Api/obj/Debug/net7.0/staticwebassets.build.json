@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ntUxNpYcA7CxPhPZS+a3wuNjTApfE06XzGSA4SolKno=",
+  "Source": "devops.fundamental.Api",
+  "BasePath": "_content/devops.fundamental.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
